@@ -7,3 +7,4 @@
 5 . Employess data analysis for various companies
 6 . Synthectic crab data analysis
 7 . Climate Change data eda and viualizations
+8.  Bank marketing data analysis partial added
