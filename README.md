@@ -8,3 +8,4 @@
 6 . Synthectic crab data analysis
 7 . Climate Change data eda and viualizations
 8.  Bank marketing data analysis partial added
+9.  case study google bella beat 
