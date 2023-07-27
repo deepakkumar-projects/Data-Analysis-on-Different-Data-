@@ -9,3 +9,4 @@
 7 . Climate Change data eda and viualizations
 8.  Bank marketing data analysis partial added
 9.  case study google bella beat 
+10. A very intresting trend for a staple crop in india rice analysis
