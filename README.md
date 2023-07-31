@@ -12,3 +12,4 @@
 10. A very intresting trend for a staple crop in india rice analysis
 11. heart disease data analyis of hungary model also added naive
 12. IIt student data eda done very much key insights drawn
+13. Imdb movies data and ranking eda added
