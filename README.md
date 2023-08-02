@@ -13,3 +13,4 @@
 11. heart disease data analyis of hungary model also added naive
 12. IIt student data eda done very much key insights drawn
 13. Imdb movies data and ranking eda added
+14. Sugarcrane productio  on global scale data analysis added
