@@ -14,3 +14,4 @@
 12. IIt student data eda done very much key insights drawn
 13. Imdb movies data and ranking eda added
 14. Sugarcrane productio  on global scale data analysis added
+15. Google stock data eda and naive isolation forest model added 
