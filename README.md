@@ -16,3 +16,4 @@
 14. Sugarcrane productio  on global scale data analysis added
 15. Google stock data eda and naive isolation forest model added 
 16. model abd gre admmision data tf sequental to predict the admission binary class
+17. House price prediction eda only
