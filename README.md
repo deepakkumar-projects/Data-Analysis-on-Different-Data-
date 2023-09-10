@@ -18,3 +18,4 @@
 16. model abd gre admmision data tf sequental to predict the admission binary class
 17. House price prediction eda only
 18. Eda for kaggle data sets done
+19. Land on earth use case statistics done 
