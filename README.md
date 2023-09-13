@@ -19,3 +19,4 @@
 17. House price prediction eda only
 18. Eda for kaggle data sets done
 19. Land on earth use case statistics done 
+20. laptop data analysis added
